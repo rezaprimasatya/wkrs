@@ -266,7 +266,7 @@ function Chat() {
                 <div className={botStyle}>
                     <img src={bot} className={imgStyle} />
                     <span className={textStyle}>
-                        Hello there, welcome to AI-ykra.AI. I am here to help you with your fashion queries. Let's get started.
+                        Hello there, welcome to AI-ykra. I am here to help you with your fashion queries. Let's get started.
                     </span>
                 </div>
                 
